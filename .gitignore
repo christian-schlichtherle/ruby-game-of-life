@@ -1,0 +1,14 @@
+*#
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.tm.epoch
+*.vim
+*-shim.sbt
+.idea/
+/logs
+.cache
+.classpath
+.project
+.settings
