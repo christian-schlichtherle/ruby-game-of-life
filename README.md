@@ -2,7 +2,10 @@
 
 This is simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
 using Ruby.
- 
+
+This is a fun project for comparison with another 
+[implementation in Scala with Akka](https://github.com/christian-schlichtherle/akka-game-of-life).
+
 ## How to Use
 
 For simulating a random pattern of cells on a board with 80 rows and 240 columns:
