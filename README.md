@@ -17,4 +17,4 @@ settings.
 
 To simulate a simple test pattern of blinkers, use:
 
-    ruby game-of-life.rb run 80 240 blinkers
+    ruby game-of-life.rb 80 240 blinkers
