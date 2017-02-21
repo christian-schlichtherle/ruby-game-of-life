@@ -1,9 +1,8 @@
 # Ruby Game of Life
 
-This is simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
+This is a simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
 using Ruby.
-
-This is a fun project for comparison with another 
+It's a fun project for comparison with another 
 [implementation in Scala with Akka](https://github.com/christian-schlichtherle/akka-game-of-life).
 
 ## How to Use
